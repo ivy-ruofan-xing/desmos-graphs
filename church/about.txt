@@ -2,3 +2,4 @@ Graph made for Calculus 12 project.
 Group members: Ivy, Jena, Judy, Wendy
 The name of the graph is "Church of Jevdy" where Jevdy is a combination of gourp members' names.
 Finished on December 29, 2015
+Link: https://www.desmos.com/calculator/rchst9rthr
